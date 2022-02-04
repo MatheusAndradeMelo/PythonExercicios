@@ -1,0 +1,10 @@
+frase = 'Aprendendo Python Online'
+print(frase[3])
+#print(frase[3:13]) print(frase[:13]) print(frase[3:]) print(frase[::3])
+print(frase.count('o'))
+print(len(frase))
+print(frase.replace('Python', 'Android'))
+#frase = frase.replace('Python', 'Android')
+print('Curso' in frase)
+print(frase.lower().find('python'))
+print(frase.split())
